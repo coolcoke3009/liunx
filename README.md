@@ -30,4 +30,6 @@ Blog : [naver.com](https://naver.com). - naver.com
 </body>
 </html>
 
-![20200815042737 1157164](https://github.com/coolcoke3009/test1/assets/117810530/100ddadc-420e-4e09-a2b6-dff0d18476e3)
+![20200815042737 1157164](https://github.com/coolcoke3009/liunx/assets/117810530/71246550-95ac-4ba8-9a86-b97765599f82)
+![1988144649_e44007df](https://github.com/coolcoke3009/liunx/assets/117810530/7558e26a-a48c-4e73-93a9-33a5424cd5f8)
+
