@@ -31,3 +31,4 @@ Blog : [naver.com](https://naver.com). - naver.com
 </html>
 
 ![20200815042737 1157164](https://github.com/coolcoke3009/linux/assets/117810530/ae942a63-abc9-4b05-acd1-4901430e4842)
+![1988144649_e44007df](https://github.com/coolcoke3009/linux/assets/117810530/08ca7978-e7ac-4200-92d9-c2f59bb3e745)
